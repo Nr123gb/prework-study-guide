@@ -1,9 +1,9 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 
 - Always been interested and wanted to learn programming.To be able to create and apply its vast applications for many important uses.To advance Technology, Medical and other important purposeful.
-- This project was built,beacuse it served an introduction learning to students and to possibley spark interest to programming world.
+- This project was built,beacuse it served an introduction learning to students and to possibly spark interest to programming world.
 - This project has solve the curiosity and provided platform of learning programming.
 - I now learned to code and able to create functional application for great purposes.
 
